@@ -8,7 +8,7 @@
 
 ---
 ### 📄 📚 Publications 
-[Google Scholar]([https://scholar.google.com/](https://scholar.google.com/citations?hl=en&user=5Zex9xUAAAAJ&view_op=list_works&sortby=pubdate)) | [ORCID](https://orcid.org/my-orcid?orcid=0000-0003-3361-9582)
+[Google Scholar]([https://scholar.google.com/](https://scholar.google.com/citations?hl=en&user=5Zex9xUAAAAJ&view_op=list_works&sortby=pubdate)) | [ORCID](https://orcid.org/my-orcid?orcid=0000-0003-3361-9582))
 ---
 
 ### 🌐 Connect with Me  
