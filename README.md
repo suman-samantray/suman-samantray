@@ -7,11 +7,13 @@
 🛠️ Background in **chemical engineering**, **computational chemistry**, and **scientific software development**, creating reproducible and scalable tools for the scientific community.
 
 ---
-### 📄 📚 Publications 
-[Google Scholar]([[https://scholar.google.com/](https://img.shields.io/badge/-Google%20Scholar-4285F4?logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?hl=en&user=5Zex9xUAAAAJ&view_op=list_works&sortby=pubdate)) | [ORCID](https://orcid.org/my-orcid?orcid=0000-0003-3361-9582))
+
+### 📄 📚 Publications  
+[![Google Scholar](https://img.shields.io/badge/-Google%20Scholar-4285F4?logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?hl=en&user=5Zex9xUAAAAJ&view_op=list_works&sortby=pubdate) | [![ORCID](https://img.shields.io/badge/-ORCID-A6CE39?logo=orcid&logoColor=white)](https://orcid.org/0000-0003-3361-9582)
+
 ---
 
 ### 🌐 Connect with Me  
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/suman-samantray/) | [![Website]()](https://suman-samantray.github.io/)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/suman-samantray/) |  [![Website](https://img.shields.io/badge/-Website-000000?logo=About.me&logoColor=white)](https://suman-samantray.github.io/)
 
 ---
