@@ -7,13 +7,11 @@
 🛠️ Background in **chemical engineering**, **computational chemistry**, and **scientific software development**, creating reproducible and scalable tools for the scientific community.
 
 ---
-
 ### 📄 📚 Publications 
-[Google Scholar](https://scholar.google.com/) | [ORCID](https://orcid.org/)
-
+[Google Scholar]([https://scholar.google.com/](https://scholar.google.com/citations?hl=en&user=5Zex9xUAAAAJ&view_op=list_works&sortby=pubdate)) | [ORCID](https://orcid.org/my-orcid?orcid=0000-0003-3361-9582)
 ---
 
 ### 🌐 Connect with Me  
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/suman-samantray/) | [![Google Scholar](https://img.shields.io/badge/-Google%20Scholar-4285F4?logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?hl=en&user=5Zex9xUAAAAJ&view_op=list_works&sortby=pubdate)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/suman-samantray/) | [![Website](https://img.shields.io/badge/-Google%20Scholar-4285F4?logo=google-scholar&logoColor=white)](https://suman-samantray.github.io/)
 
 ---
